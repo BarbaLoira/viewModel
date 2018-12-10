@@ -9,7 +9,6 @@ import com.barbaloira.mvvm.R
 import com.barbaloira.mvvm.conf.SectionsPagerAdapter
 import com.barbaloira.mvvm.fragment.SignUpPersonalFragment
 import kotlinx.android.synthetic.main.activity_sign_up.*
-import kotlinx.android.synthetic.main.fragment_sign_up.*
 import me.iwf.photopicker.PhotoPicker
 
 class SignUpActivity : AppCompatActivity() {
